@@ -1,0 +1,170 @@
+{
+    margin: none;
+}
+.banner{
+    position: relative;
+    background-image:url(./banner/banner2.png);
+    width: 1600px;
+    height: 800px;
+    top: 0px;
+}
+.header{
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 216px;
+    text-align: right;
+    margin-right: 230px;  
+}
+.heade-title{
+    position: absolute;
+    color: #444343;
+    width: 494px;
+    left: 956px;
+    bottom: 256px;
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+
+
+.button{
+    color: white;
+    background-color: #F15B22;
+    margin: none;
+    margin-left: 1210px;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+}
+    /* banner section end */
+.body-section{
+    position: absolute;
+    /* color: #F15B22; */
+    /* background-color: aqua; */
+    width: 1032px;
+    height: 723.3px;
+    margin-top: 130px;
+    margin-right: 322px;
+    margin-bottom: 130px;
+    margin-left: 206px;
+    padding-top: 130px;
+}
+    
+.section-heade{
+    
+    color: #151414;
+    font-weight: 700;
+    padding-left: 650px;
+    font-size: 40px;
+}
+.section-discription{
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 650px;
+    
+}
+#img-bsection{
+    margin-bottom: 100px;
+    margin-left: 206px ;
+    margin-top: 130px;
+
+}
+.mark-discription{
+    color: #444343;
+    padding-left: 650px;
+}  
+
+          /*plan sheet color  */
+.plan-head{
+    padding-left: 650px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.plan-ccontainar{
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    display: flex; 
+    border-radius: 5px;  
+}
+.plan{
+    margin-left: 200px;
+}
+   /* plan end */
+
+.gradint{
+  background-image: url(./images/watch.png);
+  margin-top: 400px;
+  margin-left: 230px;
+  margin-right: 230px;
+  margin-bottom: 150px;
+  height: 300px;
+  width: 1140px;   
+}
+.gradint-button{
+    color: #F15B22;
+    background-color: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    margin: none;
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+}
+
+
+.text{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+/*  gradint end */
+
+footer{
+    background-color: #151414;
+    border-radius: 5px;
+    width: 1600px;
+    height: 577px;
+} 
+#foot-head{
+    color: aliceblue;
+    padding-left: 230px;
+    padding-top: 30px;
+    font-weight: 700;
+    font-size: 45px;
+    
+}
+.foot-title{
+    padding-left: 230px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.foot-sign1{
+    padding-left: 230px;
+}
+.footer{
+    color: #ffffff;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#email{
+    background-color:#151414;
+    width: 325px;
+    height: 45px;
+   
+}
+
+button{
+    
+    color: #F15B22;
+    height: fit-content;
+    border-radius: 5px;
+}
+.sub{
+    padding-left: 1000px;
+}
